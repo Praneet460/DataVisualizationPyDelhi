@@ -1,26 +1,26 @@
 # Exploration and Visualization of Data with Python and libraries like matplotlib and seaborn
 
-### Hands-on-Session presented at PyData, September 2018
+### Hands-on-Session presented at PyDelhi Meetup, September 2018
 This Jupyter notebook introduces you to some basic principles of data exploration and visualization using Python language along with the libraries like Matplotlib and Seaborn.
 You will learn different methods for exploration of data using visualization techniques. We will use several Python packages to create the visualizations, matplotlib, Pandas plotting, and seaborn.
 
 ### About this Jupyter Notebook
 To run this notebook you need to install necessary packages, listed down. If you have not done so, you will need to install them first, as these are not in the Anaconda distribution as of now. From a command prompt on your computer type the following command. If no error occurs, you will have installed them.
 
-```pip install seaborn``` 
+```pip install seaborn```
 ```pip install pandas```
 ```pip install matplotlib```
 
+### How to get started?
+Fork the repository to run the jupyter notebook on your own computer.
+
 ### About the dataset
-The datasets used for exploration are listed down
-* Pokemon Dataset
-* Wine Score Dataset
-* Winemag Dataset
+The datasets used for exploration is [Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon/home)
 
 ### Why visualization?
 <b>“Visualization gives you answers to questions you didn’t know you had.”</b> – [Ben Schneiderman](https://www.cs.umd.edu/users/ben/)
 
-Visualization is an essential method in any data scientist's toolbox. Visualization is a key first step in the exploration of most datasets. These process exploring data visually and with simple summary statistics is known as <b>Exploratory Data Analysis(EDA)</b>. As a general rule, you should never start creating models until you have an understanding of the relationships in your data. Visualization is also a powerful tool for presentation of results and for determining sources of problems with analytics.
+Visualization is an essential method in any data scientist's toolbox. Visualization is a key first step in the exploration of most datasets. These process of exploring data visually and with simple summary statistics is known as <b>Exploratory Data Analysis(EDA)</b>. As a general rule, you should never start creating models until you have an understanding of the relationships in your data. Visualization is also a powerful tool for presentation of results and for determining sources of problems with analytics.
 
 The concept of exploring a dataset visually were pioneered by John Tukey in the 1960s and 1970s.
 
@@ -47,10 +47,11 @@ There are enumerable chart types that are used for data exploration. Some of the
 These lessons are prepared by <b>Praneet Nigam</b>. He is currently working as a <b>Machine Learning Facilitator for the Google Machine Learning Crash Course</b>. For being in touch with the speaker, contact him on listed down social media links.
 * [LinkedIn](https://www.linkedin.com/in/praneet460/)
 * [Twitter](https://twitter.com/praneetnigam)
+* Email : praneetnigam@paperwrk.in
 
 Some of the past projects of Praneet Nigam
 * [OpenAcademy](https://play.google.com/store/apps/details?id=in.paperwrk.openacademyapp)
 * [Paperwrk](http://www.paperwrk.in/)
 
 ### Resources
-In this tutorial we will work with powerful Python packages like Pandas, Matplotlib and Seaborn. These packages have extensive online documentation. These is an extensive tutorial on [Visualization with Pandas](http://pandas.pydata.org/pandas-docs/version/0.18.0/visualization.html). The [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html) contains many examples of data visualization. The matplotlib website has addition [resources for learning plotting with Python tools](https://matplotlib.org/resources/index.html).
+In this tutorial we will work with powerful Python packages like Pandas, Matplotlib and Seaborn. These packages have extensive online documentation. There is an extensive tutorial on [Visualization with Pandas](http://pandas.pydata.org/pandas-docs/version/0.18.0/visualization.html). The [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html) contains many examples of data visualization. The matplotlib website has addition [resources for learning plotting with Python tools](https://matplotlib.org/resources/index.html).
