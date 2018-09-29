@@ -1,5 +1,7 @@
 # Exploration and Visualization of Data with Python and libraries like matplotlib and seaborn
 
+#### Short Link to repo - <i>bit.ly/pydelhi_eda</i>
+
 ### Hands-on-Session presented at PyDelhi Meetup, September 2018
 This Jupyter notebook introduces you to some basic principles of data exploration and visualization using Python language along with the libraries like Matplotlib and Seaborn.
 You will learn different methods for exploration of data using visualization techniques. We will use several Python packages to create the visualizations, matplotlib, Pandas plotting, and seaborn.
@@ -15,7 +17,9 @@ To run this notebook you need to install necessary packages, listed down. If you
 Fork the repository to run the jupyter notebook on your own computer.
 
 ### About the dataset
-The datasets used for exploration is [Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon/home)
+The datasets used for exploration is [Pokemon Dataset](https://github.com/Praneet460/DataVisualizationPyDelhi/blob/master/pokemon.csv) 
+
+You can download the dataset from [Kaggle](https://www.kaggle.com/rounakbanik/pokemon/home)
 
 ### Why visualization?
 <b>“Visualization gives you answers to questions you didn’t know you had.”</b> – [Ben Schneiderman](https://www.cs.umd.edu/users/ben/)
@@ -44,7 +48,7 @@ There are enumerable chart types that are used for data exploration. Some of the
 * <b>Violin plot</b> : A violin plot combines attributes of boxplots and a kernel density estimation plot. Like a box plot, the violin plots can be stacked, with a 'group by' operation. Additionally, the violin plot provides a kernel density estimate for each group. As with the box plot, violin plots allow you to display two dimensions of your dataset.
 
 ### About the speaker
-These lessons are prepared by <b>Praneet Nigam</b>. He is currently working as a <b>Machine Learning Facilitator for the Google Machine Learning Crash Course</b>. For being in touch with the speaker, contact him on listed down social media links.
+These lessons are prepared by <b>Praneet Nigam</b>. He is currently working as a <b>Machine Learning Facilitator</b> for the [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/). For being in touch with the speaker, contact him on listed down social media links.
 * [LinkedIn](https://www.linkedin.com/in/praneet460/)
 * [Twitter](https://twitter.com/praneetnigam)
 * Email : praneetnigam@paperwrk.in
