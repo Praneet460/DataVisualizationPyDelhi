@@ -27,7 +27,7 @@ If you are a beginner then you can follow along with:
 <img src = "https://user-images.githubusercontent.com/23660137/50368040-e53bee00-05aa-11e9-89c5-5fa08559f4da.png"> <img src="https://user-images.githubusercontent.com/23660137/50368005-7f4f6680-05aa-11e9-997f-a6e6af0c1989.png"> <img src="https://user-images.githubusercontent.com/23660137/50368012-8d9d8280-05aa-11e9-851a-068fbf1b8dd1.png"> <img src="https://user-images.githubusercontent.com/23660137/50368016-9f7f2580-05aa-11e9-8151-5c0c8bc5405c.png"> <img src="https://user-images.githubusercontent.com/23660137/50368022-ae65d800-05aa-11e9-9934-b456b8694092.png">
 
 The datasets used for exploration is [Pokemon Dataset](https://github.com/Praneet460/DataVisualizationPyDelhi/blob/master/pokemon.csv).  
-This dataset contains information on all <b>802 Pokemon</b> from all <b>Seven Generations of Pokemon</b>. The information contained in this dataset include <b>23 features</b>:
+This dataset contains information on all <b>802 Pokemon</b> from all <b>Seven Generations of Pokemon</b>. The information contained in this dataset include:
 
 | Features | Description |
 |---|---|
