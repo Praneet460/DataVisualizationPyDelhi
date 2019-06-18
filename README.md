@@ -94,5 +94,9 @@ Some of the past projects of Praneet Nigam
 * [OpenAcademy](https://play.google.com/store/apps/details?id=in.paperwrk.openacademyapp)
 * [Paperwrk](http://www.paperwrk.in/)
 
+### Support
+You can buy me a cup of coffee. Even a small contribution helps a lot in a long way.
+[Please Donate Here](https://www.paypal.me/openacademy)
+
 ### Resources
 In this tutorial we will work with powerful Python packages like Pandas, Matplotlib and Seaborn. These packages have extensive online documentation. There is an extensive tutorial on [Visualization with Pandas](http://pandas.pydata.org/pandas-docs/version/0.18.0/visualization.html). The [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html) contains many examples of data visualization. The matplotlib website has addition [resources for learning plotting with Python tools](https://matplotlib.org/resources/index.html).
